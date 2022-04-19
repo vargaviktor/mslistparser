@@ -2,5 +2,5 @@ certs/*
 authroot*
 asn1*
 *.eku
-results.txt
-thumbprints.txt
+results*.txt
+thumbprints*.txt
