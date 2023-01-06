@@ -58,8 +58,9 @@ do
 	cat clean.tmp.eku >> results.txt
     fi
 
-cp results.txt results-$mstldate.txt
 
 done < "$input"
+
+cp results.txt results-$mstldate.txt
 
 

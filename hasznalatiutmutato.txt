@@ -1,0 +1,11 @@
+MS CTL értelmező script
+-----------------------------------------
+A scripttekkel az MS CTL tartalma értelmezhető, 
+tanúsítvány adatok és jogosultságok kerülnek a results.txt állományba.
+A használat lépései:
+1. Futtasd az mstl.sh scriptet .
+   Ez letolti az authroot.cab-ot, majd kicsomagolja és kiszedi a kiadás dátumát,
+   a tanúsítvány elérhetőségét és a jogosultságot.
+   Az elérhetőség birtokában letölti a tanúsítványt, amiből kiszedi a tanúsítvány
+   subject adatát, majd zekből az adatokból összeállítja a results.txt állományt.
+2. Az eredmény fájlt szövegeditorban (pl. notepad++) tudod megnyitni.
