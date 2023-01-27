@@ -9,3 +9,14 @@ A használat lépései:
    Az elérhetőség birtokában letölti a tanúsítványt, amiből kiszedi a tanúsítvány
    subject adatát, majd zekből az adatokból összeállítja a results.txt állományt.
 2. Az eredmény fájlt szövegeditorban (pl. notepad++) tudod megnyitni.
+
+
+==================================================================================
+hasznos olvasnivalók, linkek:
+-----------------------------
+http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/thumbprint.crt
+http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab
+https://www.npmjs.com/package/tl-create
+https://support.microsoft.com/en-us/topic/d2a83b8f-22f8-34a2-2ca2-e04ff2b67715
+https://unmitigatedrisk.com/?p=259
+https://github.com/ralphje/signify/issues/12
