@@ -7,7 +7,7 @@ A használat lépései:
    Ez letolti az authroot.cab-ot, majd kicsomagolja és kiszedi a kiadás dátumát,
    a tanúsítvány elérhetőségét és a jogosultságot.
    Az elérhetőség birtokában letölti a tanúsítványt, amiből kiszedi a tanúsítvány
-   subject adatát, majd zekből az adatokból összeállítja a results.txt állományt.
+   subject adatát, majd ezekből az adatokból összeállítja a results.txt állományt.
 2. Az eredmény fájlt szövegeditorban (pl. notepad++) tudod megnyitni.
 
 
